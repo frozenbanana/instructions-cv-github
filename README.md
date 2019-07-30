@@ -1,8 +1,3 @@
----
-title: "Hosta CV på Github"
-date: 2019-07-29T22:20:25+02:00
-draft: False
----
 ![](/resume-icon.jpg)
 # Hosta ditt CV med hjälp av github
 **Förkrav:** Ett github-konto och ett CV i PDF-format.
